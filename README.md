@@ -19,5 +19,5 @@ An easy to use project template for small projects using Django Rest Framework.
 Using this template
 
 ```bash
-django-admin startproject --template https://github.com/nishantwrp/drf-starter-template/archive/v2.0.zip --name=Procfile  your_project_name .
+django-admin startproject --template https://github.com/nishantwrp/drf-starter-template/releases/download/v3.0/template.zip --name=Procfile  your_project_name .
 ```
